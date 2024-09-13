@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator_idk2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+            <!-- Primary brand color. -->
+            <item name="colorPrimary">@color/sage</item>
+            <item name="colorPrimaryVariant">@color/fern_green</item>
+            <item name="colorOnPrimary">@color/timberwolf</item>
+            <!-- Secondary brand color. -->
+            <item name="colorSecondary">@color/fern_green</item>
+            <item name="colorSecondaryVariant">@color/hunter_green</item>
+            <item name="colorOnSecondary">@color/timberwolf</item>
+            <!-- Status bar color. -->
+            <item name="android:statusBarColor">@color/brunswick_green</item>
+            <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.Calculator_idk2" parent="Base.Theme.Calculator_idk2" />
+</resources>
