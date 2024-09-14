@@ -7,3 +7,8 @@
  + Navigation Component
 
 пожалуйста возьмите меня на работу
+
+**[Видео демонстрация работы приложения](https://disk.yandex.ru/i/qjSwIBWyiCHGOg)**
+
+Скриншоты программы:  
+![Скриншот 1](demonstration/demonstration1.png)
